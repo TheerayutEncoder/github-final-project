@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# theerayutattajak@gmail.com
+# theerayueEncoder
 
 # Input:
 # p, principal amount
